@@ -1,0 +1,101 @@
+PurchaseID,FirstName,LastName,City,Model,UnitPrice,Quantity,TotalPrice,PurchaseDate
+3001,Amelia,Clark,San Jose,Dell XPS 15,1652.33,1,1652.33,2023-12-07
+3002,Liam,Garcia,Phoenix,Dell Alienware M15,1887.99,5,9439.95,2023-11-18
+3003,William,Garcia,San Antonio,Dell Inspiron 14,532.29,3,1596.87,2024-02-06
+3004,Oliver,Martinez,San Antonio,Dell XPS 15,1571.53,4,6286.12,2023-08-08
+3005,Noah,Taylor,San Diego,Dell Inspiron 15,809.86,1,809.86,2023-10-07
+3006,William,Martin,Los Angeles,Dell XPS 13,1435.49,2,2870.98,2023-03-22
+3007,Amelia,Thomas,San Diego,Dell XPS 15,1337.52,5,6687.6,2023-03-18
+3008,William,Thompson,Houston,Dell Inspiron 14,621.64,5,3108.2,2023-12-19
+3009,Oliver,Harris,Dallas,Dell Inspiron 15,742.18,5,3710.9,2023-11-02
+3010,Ava,Thompson,Philadelphia,Dell XPS 13,1281.38,1,1281.38,2024-02-21
+3011,Elijah,Thomas,Dallas,Dell Inspiron 14,705.3,5,3526.5,2023-12-14
+3012,Oliver,Clark,San Diego,Dell G15 Gaming,1309.01,2,2618.02,2024-03-09
+3013,Emma,Garcia,New York,Dell XPS 15,1725.92,1,1725.92,2023-04-24
+3014,Noah,Taylor,San Diego,Dell Alienware M15,1580.1,2,3160.2,2023-11-18
+3015,Amelia,Martinez,Los Angeles,Dell XPS 13,1496.86,2,2993.72,2023-10-29
+3016,Ava,Robinson,Phoenix,Dell Inspiron 14,619.58,1,619.58,2023-08-02
+3017,Emma,White,Dallas,Dell XPS 13,1414.89,5,7074.45,2023-06-08
+3018,Liam,Garcia,Phoenix,Dell XPS 13,1254.37,2,2508.74,2023-09-09
+3019,Ava,Garcia,Philadelphia,Dell XPS 13,1366.92,5,6834.6,2023-05-14
+3020,Charlotte,Robinson,San Antonio,Dell Inspiron 15,745.73,5,3728.65,2023-03-14
+3021,Olivia,Harris,San Antonio,Dell Inspiron 14,506.52,2,1013.04,2024-02-27
+3022,Ava,Martinez,Phoenix,Dell XPS 15,1585.22,1,1585.22,2023-11-06
+3023,Ava,Martinez,Phoenix,Dell XPS 15,1552.39,3,4657.17,2023-01-31
+3024,Elijah,Martinez,Philadelphia,Dell Inspiron 15,619.05,5,3095.25,2023-04-18
+3025,Olivia,Taylor,San Jose,Dell Inspiron 15,775.55,4,3102.2,2024-02-03
+3026,Noah,Thomas,San Jose,Dell Inspiron 15,716.77,2,1433.54,2023-08-31
+3027,Oliver,Harris,San Diego,Dell XPS 15,1552.82,4,6211.28,2023-03-13
+3028,Amelia,Garcia,San Diego,Dell XPS 13,1051.66,3,3154.98,2023-12-28
+3029,Amelia,Thomas,Chicago,Dell Inspiron 14,599.75,2,1199.5,2024-01-23
+3030,Emma,Taylor,Philadelphia,Dell XPS 15,1238.5,3,3715.5,2023-10-15
+3031,Ava,Martin,New York,Dell G15 Gaming,1295.42,2,2590.84,2023-12-13
+3032,Elijah,Thompson,San Diego,Dell Inspiron 14,750.09,5,3750.45,2024-02-16
+3033,Noah,White,Chicago,Dell G15 Gaming,1324.41,2,2648.82,2023-05-05
+3034,Olivia,Martin,New York,Dell XPS 13,1043.07,1,1043.07,2023-11-13
+3035,Amelia,Clark,New York,Dell Inspiron 15,975.15,4,3900.6,2024-03-25
+3036,Noah,Robinson,San Jose,Dell XPS 15,1212.88,3,3638.64,2023-10-08
+3037,Liam,Harris,Phoenix,Dell XPS 15,1344.38,4,5377.52,2023-01-05
+3038,William,Taylor,San Jose,Dell Inspiron 14,692.96,4,2771.84,2023-11-08
+3039,Charlotte,Harris,San Jose,Dell XPS 13,1146.4,2,2292.8,2024-02-07
+3040,Amelia,Thomas,San Antonio,Dell G15 Gaming,984.09,5,4920.45,2024-03-05
+3041,Oliver,Taylor,San Jose,Dell Inspiron 14,699.03,1,699.03,2023-08-11
+3042,Amelia,Robinson,Houston,Dell Latitude 7420,1171.74,5,5858.7,2023-12-18
+3043,Charlotte,Thomas,San Antonio,Dell XPS 15,1600.29,5,8001.45,2024-01-02
+3044,Oliver,Garcia,San Diego,Dell Latitude 7420,1400.77,4,5603.08,2024-03-03
+3045,William,Robinson,Los Angeles,Dell Inspiron 15,911.95,3,2735.85,2023-02-10
+3046,Amelia,Thomas,San Diego,Dell XPS 13,1001.74,5,5008.7,2023-06-04
+3047,Liam,Martinez,Philadelphia,Dell XPS 15,1680.04,2,3360.08,2023-08-15
+3048,Amelia,Martinez,New York,Dell Latitude 7420,1155.07,3,3465.21,2024-03-13
+3049,Oliver,Harris,Dallas,Dell Inspiron 15,861.78,5,4308.9,2023-12-02
+3050,Charlotte,Thompson,Phoenix,Dell XPS 13,1174.66,4,4698.64,2024-01-21
+3051,Liam,Martin,Dallas,Dell Inspiron 15,890.9,4,3563.6,2023-09-03
+3052,Olivia,Robinson,Phoenix,Dell Latitude 7420,1367.55,4,5470.2,2023-10-24
+3053,Amelia,Thompson,Phoenix,Dell Inspiron 14,700.95,1,700.95,2024-03-05
+3054,Elijah,Martin,San Jose,Dell Latitude 7420,1190.12,4,4760.48,2024-01-05
+3055,Ava,Garcia,San Diego,Dell XPS 13,1318.59,1,1318.59,2024-01-20
+3056,Emma,Robinson,Dallas,Dell XPS 13,1198.88,2,2397.76,2023-05-08
+3057,Oliver,White,Phoenix,Dell XPS 13,1152.31,2,2304.62,2023-07-06
+3058,William,Robinson,Philadelphia,Dell Inspiron 15,686.95,1,686.95,2023-10-15
+3059,Olivia,White,Chicago,Dell XPS 13,1354.93,4,5419.72,2023-09-02
+3060,Amelia,Clark,Philadelphia,Dell Inspiron 15,827.25,4,3309.0,2023-03-16
+3061,Amelia,Robinson,Los Angeles,Dell Inspiron 15,860.03,5,4300.15,2023-10-14
+3062,Ava,Taylor,Chicago,Dell Inspiron 15,914.81,4,3659.24,2023-12-28
+3063,Amelia,Robinson,Los Angeles,Dell Inspiron 15,712.82,1,712.82,2023-09-03
+3064,Amelia,Thomas,San Jose,Dell XPS 15,1584.16,2,3168.32,2024-01-20
+3065,Emma,Thomas,Los Angeles,Dell Inspiron 15,812.17,3,2436.51,2024-01-15
+3066,Elijah,Garcia,San Diego,Dell Inspiron 14,649.96,4,2599.84,2024-03-01
+3067,Oliver,Garcia,Philadelphia,Dell Inspiron 15,826.55,4,3306.2,2023-01-25
+3068,Olivia,Harris,San Antonio,Dell XPS 15,1500.98,3,4502.94,2023-05-31
+3069,William,Harris,Houston,Dell G15 Gaming,1055.53,1,1055.53,2023-05-05
+3070,William,Thomas,Los Angeles,Dell XPS 13,1265.87,5,6329.35,2023-09-21
+3071,Charlotte,Harris,San Antonio,Dell Inspiron 14,817.39,2,1634.78,2023-07-05
+3072,William,Martinez,San Diego,Dell XPS 13,1085.6,3,3256.8,2024-02-16
+3073,Oliver,Harris,Philadelphia,Dell Inspiron 15,978.9,5,4894.5,2024-01-29
+3074,Olivia,White,San Diego,Dell Latitude 7420,1534.09,5,7670.45,2023-04-11
+3075,Elijah,White,Dallas,Dell XPS 13,1228.45,1,1228.45,2023-11-06
+3076,William,Thompson,Phoenix,Dell XPS 13,1174.09,1,1174.09,2023-02-06
+3077,Oliver,Martin,Philadelphia,Dell XPS 13,1401.51,2,2803.02,2023-08-16
+3078,Amelia,Robinson,San Diego,Dell Inspiron 14,522.05,2,1044.1,2024-02-16
+3079,Ava,Taylor,Philadelphia,Dell Inspiron 15,759.5,4,3038.0,2023-08-22
+3080,Charlotte,Harris,San Diego,Dell XPS 13,1321.76,5,6608.8,2023-06-12
+3081,Elijah,Clark,San Jose,Dell Inspiron 15,767.2,5,3836.0,2023-12-31
+3082,Amelia,Garcia,Chicago,Dell Inspiron 15,879.26,4,3517.04,2023-06-02
+3083,Oliver,Garcia,Los Angeles,Dell Latitude 7420,1534.27,5,7671.35,2023-04-05
+3084,Oliver,Garcia,Phoenix,Dell XPS 13,1326.19,5,6630.95,2023-01-03
+3085,Oliver,Thomas,Houston,Dell XPS 15,1764.67,4,7058.68,2023-04-14
+3086,Elijah,Garcia,San Diego,Dell XPS 13,1316.74,3,3950.22,2023-04-08
+3087,Amelia,Martinez,San Jose,Dell Inspiron 15,891.88,3,2675.64,2023-10-19
+3088,Emma,Thompson,New York,Dell Inspiron 14,854.87,5,4274.35,2023-12-23
+3089,Liam,Martinez,Dallas,Dell XPS 13,1372.55,1,1372.55,2023-03-13
+3090,Ava,Clark,Philadelphia,Dell Inspiron 14,569.6,5,2848.0,2023-03-25
+3091,Charlotte,Martinez,Houston,Dell G15 Gaming,1006.27,4,4025.08,2023-05-30
+3092,Elijah,Clark,Los Angeles,Dell XPS 13,1224.76,5,6123.8,2023-01-16
+3093,Emma,Harris,Philadelphia,Dell XPS 15,1394.89,4,5579.56,2023-01-13
+3094,Liam,Martin,Philadelphia,Dell Alienware M15,1861.42,3,5584.26,2023-03-07
+3095,William,Clark,San Diego,Dell G15 Gaming,1337.3,5,6686.5,2024-01-16
+3096,Oliver,Clark,San Diego,Dell Latitude 7420,1468.04,4,5872.16,2023-03-04
+3097,Amelia,Harris,Dallas,Dell XPS 13,1200.69,1,1200.69,2023-07-10
+3098,Ava,Martin,Houston,Dell Inspiron 14,824.98,2,1649.96,2023-11-16
+3099,Emma,White,San Antonio,Dell Alienware M15,1661.23,3,4983.69,2023-07-08
+3100,William,Martin,Dallas,Dell XPS 15,1597.16,3,4791.48,2023-09-19
